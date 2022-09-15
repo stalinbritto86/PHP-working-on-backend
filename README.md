@@ -12,6 +12,11 @@ Last updated : 04/09/2022 11:05 PM IST
 
 > ###### Day 1 (15/09/2022):
 
-Convert the .html files to .php which is ready to integrating php files.
+- Convert the .html files to .php which is ready to integrating with php files.
+- Manage permalinks structures.
+- Updating favicon, media files.
+- Adding comment lines for developer friendly.
+- Very responsive, working in all size devices.
+- Noted that contact form not working.
 
 ----------
